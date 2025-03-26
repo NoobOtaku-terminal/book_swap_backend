@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-15T14:46:24.410Z",
+  "timestamp": "2025-03-26T01:23:27.524Z",
   "indexes": {
     "simpleIndexes": {
       "title": [
@@ -250,6 +250,12 @@
           [
             42
           ]
+        ],
+        [
+          "asda",
+          [
+            43
+          ]
         ]
       ],
       "genre": [
@@ -319,6 +325,12 @@
             35,
             36,
             37
+          ]
+        ],
+        [
+          "adasd",
+          [
+            43
           ]
         ]
       ],
@@ -390,6 +402,12 @@
             36,
             37
           ]
+        ],
+        [
+          "1742929450584",
+          [
+            43
+          ]
         ]
       ]
     },
@@ -452,6 +470,13 @@
                     {
                       "key": "1731589663946",
                       "value": null
+                    },
+                    {
+                      "key": {
+                        "key": "1731678046386",
+                        "value": null
+                      },
+                      "value": null
                     }
                   ],
                   "children": [
@@ -494,10 +519,6 @@
                         {
                           "key": "1731589787957",
                           "value": null
-                        },
-                        {
-                          "key": "1731678046386",
-                          "value": null
                         }
                       ],
                       "children": [
@@ -522,16 +543,39 @@
                           "children": [],
                           "isLeaf": true,
                           "next": null
-                        },
+                        }
+                      ],
+                      "isLeaf": false,
+                      "next": null
+                    },
+                    {
+                      "keys": [
+                        {
+                          "key": "1731681702721",
+                          "value": null
+                        }
+                      ],
+                      "children": [
                         {
                           "keys": [
                             {
                               "key": "1731678046386",
                               "value": 41
-                            },
+                            }
+                          ],
+                          "children": [],
+                          "isLeaf": true,
+                          "next": null
+                        },
+                        {
+                          "keys": [
                             {
                               "key": "1731681702721",
                               "value": 42
+                            },
+                            {
+                              "key": "1742931815793",
+                              "value": 43
                             }
                           ],
                           "children": [],

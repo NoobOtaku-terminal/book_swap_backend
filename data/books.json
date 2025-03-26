@@ -557,5 +557,18 @@
     "isAvailable": true,
     "createdAt": "2024-11-15T14:41:42.721Z",
     "updatedAt": "2024-11-15T14:41:42.721Z"
+  },
+  {
+    "_id": "1742931815793",
+    "title": "asda",
+    "author": "asdasd",
+    "description": "sdsdfsdf",
+    "condition": "New",
+    "genre": "adasd",
+    "image": "https://m.media-amazon.com/images/I/51Fi2uyJCYL._AC_UY1100_.jpg",
+    "owner": "1742929450584",
+    "isAvailable": true,
+    "createdAt": "2025-03-25T19:43:35.793Z",
+    "updatedAt": "2025-03-25T19:43:35.793Z"
   }
 ]

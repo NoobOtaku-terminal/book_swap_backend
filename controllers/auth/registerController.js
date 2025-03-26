@@ -53,6 +53,8 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const localDb = require('../../local-db/LocalDatabase');
+require('dotenv').config();
+
 
 const register = async (req, res) => {
     const timeLabel = `Register_${Date.now()}`;

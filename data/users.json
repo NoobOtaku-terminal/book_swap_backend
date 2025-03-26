@@ -225,5 +225,68 @@
     "books": [],
     "createdAt": "2024-11-15T13:31:13.510Z",
     "updatedAt": "2024-11-15T13:31:13.510Z"
+  },
+  {
+    "_id": "1742926136299",
+    "username": "visualstudio",
+    "email": "example@gmail.com",
+    "password": "$2a$10$V8HtEVvE7VB.z/jR79/EGe1OlXEvrv5uvCiuCEdL46n3uZ0bMPfLu",
+    "books": [],
+    "createdAt": "2025-03-25T18:08:56.299Z",
+    "updatedAt": "2025-03-25T18:08:56.299Z"
+  },
+  {
+    "_id": "1742926301571",
+    "username": "user123",
+    "email": "user123@gmail.com",
+    "password": "$2a$10$pPjHofq0y9URB157PnbVQuBLoYQPCBUxDMjF9cyd2FcX0/qMGWJn6",
+    "books": [],
+    "createdAt": "2025-03-25T18:11:41.571Z",
+    "updatedAt": "2025-03-25T18:11:41.571Z"
+  },
+  {
+    "_id": "1742926661923",
+    "username": "user1234",
+    "email": "user1234@gmail.com",
+    "password": "$2a$10$LZYCFsCnEnbxxRIgCUHk/OhpjpiSmP4priOttRFjCYTlbfbC82tNu",
+    "books": [],
+    "createdAt": "2025-03-25T18:17:41.923Z",
+    "updatedAt": "2025-03-25T18:17:41.923Z"
+  },
+  {
+    "_id": "1742927185988",
+    "username": "user12345",
+    "email": "user12345@gmail.com",
+    "password": "$2a$10$RwM5f2Rsp9S57e2w8VGW.edYIXXE20MPhfZf35gAvdHsb8ZyfBC8C",
+    "books": [],
+    "createdAt": "2025-03-25T18:26:25.988Z",
+    "updatedAt": "2025-03-25T18:26:25.988Z"
+  },
+  {
+    "_id": "1742927448570",
+    "username": "userA",
+    "email": "userA@gmail.com",
+    "password": "$2a$10$gdkziCPOAaqGUPFWAd7Xmes2PWhqVGyinDg3OI0q.36nq2QtFnD.2",
+    "books": [],
+    "createdAt": "2025-03-25T18:30:48.571Z",
+    "updatedAt": "2025-03-25T18:30:48.571Z"
+  },
+  {
+    "_id": "1742927532091",
+    "username": "userB",
+    "email": "userB@gmail.com",
+    "password": "$2a$10$h6X1lheP/8Dh2kfjLW6WJu.cIMibEjVGrMFYPtjON7uRPD1cTN.om",
+    "books": [],
+    "createdAt": "2025-03-25T18:32:12.091Z",
+    "updatedAt": "2025-03-25T18:32:12.091Z"
+  },
+  {
+    "_id": "1742927873273",
+    "username": "userC",
+    "email": "userC@gmail.com",
+    "password": "$2a$10$7S3ywzltJiXlD/mNA0rZnuhNJZVmqUQDfoW/rHKtGllkdItDYOsKu",
+    "books": [],
+    "createdAt": "2025-03-25T18:37:53.273Z",
+    "updatedAt": "2025-03-25T18:37:53.273Z"
   }
 ]

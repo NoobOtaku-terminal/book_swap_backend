@@ -1,5 +1,5 @@
 const express = require('express');
-const connectDB = require('./config/db');
+// const connectDB = require('./config/db');
 const dotenv = require('dotenv');
 const authRoutes = require('./routes/authRoutes');
 const bookRoutes = require('./routes/bookRoutes');
@@ -13,7 +13,7 @@ dotenv.config();
 const app = express();
 
 // Connect to database
-connectDB();
+// connectDB();
 
 // Middleware
 app.use(cors());

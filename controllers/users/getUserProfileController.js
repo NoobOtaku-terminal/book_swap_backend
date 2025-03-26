@@ -3,8 +3,8 @@ const LocalDatabase = require('../../local-db/LocalDatabase');
 async function getUserProfile(req, res) {
     try {
         const userId = req.user._id;
+        // console.log("wooooooh");
         const user = await LocalDatabase.findUserById(userId);
-
         if (!user) {
             return res.status(404).json({
                 success: false,
